@@ -1,0 +1,18 @@
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Pendulo simple.exe.config
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Pendulo simple.exe
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Pendulo simple.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo simple.csprojAssemblyReference.cache
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo_simple.Form1.resources
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo_simple.Properties.Resources.resources
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo simple.csproj.GenerateResource.cache
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo simple.exe
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo simple.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\BLL.dll
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Entity.dll
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Infraestructura.dll
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\DAL.dll
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\BLL.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Entity.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\Infraestructura.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\bin\Debug\DAL.pdb
+C:\Users\Orlando Rojano\source\repos\Pendulo simple\Pendulo simple\obj\Debug\Pendulo simple.csproj.CopyComplete
